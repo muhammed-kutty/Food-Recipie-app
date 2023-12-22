@@ -1,3 +1,36 @@
+# Food Recipie app using Reactjs
+This project is made by muhammed kutty kt using react js
+in this project am used react hooks are:-
+  * useState
+  * useEffect
+  * useContext
+  * useReducer
+  * React router dom for routing
+this project contain:-
+  * Add to Cart
+  * increment&decrement Cart Item
+  * tottal price of your quantitiy of item
+  * pagination
+  * input form for food ordering Details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
